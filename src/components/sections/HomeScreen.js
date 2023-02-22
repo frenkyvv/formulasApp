@@ -20,6 +20,12 @@ export default function Main() {
           <Link to="/page-2">
             <Boton2ap text="Dopamina" />
           </Link>
+          <Link to="/page-3">
+            <Boton2ap text="Dobutamina" />
+          </Link>
+          <Link to="/page-4">
+            <Boton2ap text="Deficit de Agua" />
+          </Link>
         </ButtonWrapper>
       </InnerWrapper>
     </Wrapper>
